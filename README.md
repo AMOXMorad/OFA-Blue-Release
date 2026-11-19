@@ -18,7 +18,7 @@
 
 ## 🇪🇬 ما هو تطبيق OFA Blue؟ (العربية)
 
-**OFA Blue** هو تطبيق أندرويد يتيح لك تشغيل فيلم أو أغنية من أي مشغّل خارجي (مثل **VLC** أو **MX Player** أو مشغل الأغاني) وبث الصوت لايف إلى أكثر من موبايل متصلين على نفس الـ **Hotspot** أو الـ **Wi-Fi**، ليسمع كل شخص عبر سماعته البلوتوث (مثل سماعات **Oraimo** وغيرها) في نفس الوقت **بدون استهلاك إنترنت**.
+**One For ALl Blue - OFA Blue** هو تطبيق أندرويد يتيح لك تشغيل فيلم أو أغنية من أي مشغّل خارجي (مثل **VLC** أو **MX Player** أو مشغل الأغاني) وبث الصوت لايف إلى أكثر من موبايل متصلين على نفس الـ **Hotspot** أو الـ **Wi-Fi**، ليسمع كل شخص عبر سماعته البلوتوث (مثل سماعات **Oraimo** وغيرها) في نفس الوقت **بدون استهلاك إنترنت**.
 
 ### ✨ المميزات
 - **يعمل بدون إنترنت:** يعتمد على شبكة الـ Hotspot أو الـ Wi-Fi المحلية فقط.
@@ -40,7 +40,7 @@
 
 ## 🇬🇧 What is OFA Blue? (English)
 
-**OFA Blue** is an Android application that captures audio from your favorite external local media player (**VLC**, **MX Player**, local music players) and broadcasts it live over a local **Wi-Fi / Hotspot** network to multiple Android devices — letting everyone listen simultaneously through their own Bluetooth earbuds (such as **Oraimo** TWS) with **zero internet usage**.
+**One For ALl Blue - OFA Blue** is an Android application that captures audio from your favorite external local media player (**VLC**, **MX Player**, local music players) and broadcasts it live over a local **Wi-Fi / Hotspot** network to multiple Android devices — letting everyone listen simultaneously through their own Bluetooth earbuds (such as **Oraimo** TWS) with **zero internet usage**.
 
 ### ✨ Features
 - **100% Offline Local Streaming:** Works over Android Hotspot or local Wi-Fi with zero data consumption.
